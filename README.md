@@ -1,65 +1,76 @@
-# Project X
+# Read Me Generator
+![badge](https://img.shields.io/badge/license-MIT-green)
     
-    an application to do things on the computer
+Generate a read me markdown file through node.js.
 
-    ---
+---
 
-    ## Table of Contents
-    [Installation]
-    [Usage]
-    [License]
-    [Contributing]
-    [Tests]
-    [Questions]
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Link](#link) 
+[Questions](#questions)
 
-    ---
+---
 
-    ## Installation
-    open the app in the browser and do the things
+## Installation
+This is a command line app that can be run with node.js.
 
-    ---
+---
 
-    ## Usage
-    for when you want to do the things
+## Usage
+A quick and easy way to create a professional read me for your project.
 
-    ---
+---
 
-    ## License
-    MIT
-    Copyright (c) [2020] [Trisha Croatt]
+## License
+ MIT
+Copyright (c) [2020] [Trisha Croatt]
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-    ---
+---
 
-    ## Contributing
-    javascript, html, css, your mom
+## Contributing
+npm inquirer 
+JavaScript
+Node.js
 
-    ---
 
-    ## Tests
-    we tested it and it worked
+---
 
-    ---
+## Tests
+Ran multiple tests in VS Code. Rendered multiple read me files.
 
-    ## Questions
-    For further questions, contact me at:
-    GitHub: [TLCroatt](https://github.com/TLCroatt)
-    Email: <me@me.com>
+---
+
+## Link
+GitHub repository: [ReadMe-Generator](https://github.com/TLCroatt/ReadMe-Generator)
+
+---
+
+## Questions
+For further questions, contact me at:
+GitHub: [TLCroatt](https://github.com/TLCroatt)
+
+
   
