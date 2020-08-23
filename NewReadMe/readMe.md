@@ -1,8 +1,8 @@
-# bubbles
+# Bubbles
     
 ![badge](https://img.shields.io/badge/license-MIT-green)
 
-tarantula pet
+Watch my pet tarantula do things.
 
 ---
 
@@ -17,18 +17,18 @@ tarantula pet
 ---
 
 ## Installation
-in browser
+in the browser
 
 ---
 
 ## Usage
-tarantula cam
+Tarantula web-cam
 
 ---
 
 ## License
 MIT
-Copyright (c) [2020] [trisha c]
+Copyright (c) [2020] [Trisha Croatt]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,17 +51,17 @@ SOFTWARE.
 ---
 
 ## Contributing
-javascript
+javascript, html, css
 
 ---
 
 ## Tests
-test
+I tested it and it worked
 
 ---
 
 ## Questions
 For further questions, contact me at:
-GitHub: [tlcroatt](https://github.com/tlcroatt)
-Email: <me@me.com>
+GitHub: [TLCroatt](https://github.com/TLCroatt)
+Email: <me@bubbles.com>
   
